@@ -1,0 +1,2 @@
+javac tankrotationexample/Launcher.java
+jar -v --create --file TankGame.jar --manifest MANIFEST.MF .

@@ -1,0 +1,19 @@
+TileBackground Section:
+0 - grass 			no special properties
+1 - forest			50% movement penalty
+2 - mountain		100% movement penalty
+
+Battalion Section:
+t - player controlled tank
+T - AI controlled tank
+h - player controlled heavy tank
+H - AI controlled heavy tank
+p - player controlled fighter
+P - AI controlled fighter
+
+Building Section:
+o - neutral oil rig
+O - AI controlled oil rig
+
+f - player controlled factory
+F - AI controlled factory

@@ -1,0 +1,1 @@
+Drop saturation to 50 and increase brightness by 20 for moved version of image
